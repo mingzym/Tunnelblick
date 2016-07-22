@@ -1151,7 +1151,7 @@
 "In the OpenVPN configuration file for '%@': %@" = "OpenVPN 配置文件的 '%1$@': %2$@";
 
 /* Window text */
-"In:" = "在：";
+"In:" = "流入:";
 
 /* Window text */
 "Installation failed:\n\n%@" = "安装失败： %@";
